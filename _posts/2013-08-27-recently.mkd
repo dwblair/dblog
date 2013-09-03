@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "PVOS @ Open Hardware Summit, MIT on 9/6/2013"
+date:   2013-08-27
+categories: updates 
+---
+
+[Pioneer Valley Open Science](http://pvos.org) will be presenting the "Open Potentiostat" project at the Open Hardware Summit at MIT on September 6th.  Come for the summit -- stay for the electrochemistry!
+
+
